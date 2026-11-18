@@ -1,7 +1,7 @@
 package id.reltv.sippelanambas
 
 import android.app.Activity
-import android.app.PrintManager
+import android.print.PrintManager
 import android.content.Intent
 import android.content.ContentValues
 import android.net.Uri
