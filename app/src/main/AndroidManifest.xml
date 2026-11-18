@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
-    <application android:allowBackup="false" android:label="SIPPEL ANAMBAS"
+    <application android:allowBackup="false" android:icon="@drawable/ic_sippel_launcher" android:roundIcon="@drawable/ic_sippel_launcher" android:label="SIPPEL ANAMBAS"
         android:theme="@android:style/Theme.Material.Light.NoActionBar"
         android:usesCleartextTraffic="false">
         <activity android:name=".MainActivity"
